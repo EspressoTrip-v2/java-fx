@@ -14,12 +14,9 @@
     <left>
         <Label text="This label is on the left"/>
     </left>
-
     <center>
         <Label text="This is the center"/>
     </center>
-
-
     <right>
         <Label text="This label is on the right"/>
     </right>
@@ -34,6 +31,5 @@
             <Button text="Cancel" prefWidth="90"/>
             <Button text="Help" prefWidth="90"/>
         </HBox>
-
     </bottom>
 </BorderPane>
