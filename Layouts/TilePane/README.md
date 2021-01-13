@@ -4,6 +4,7 @@
 <pre>
 <code>
 &lt;TilePane fx:controller="sample.Controller" xmlns:fx="http://javafx/fxml" alignment="CENTER"&gt;
+
     &lt;Button text="Button One" /&gt;
     &lt;Button text="Button Two" /&gt;
     &lt;Button text="Button Three" /&gt;
@@ -14,6 +15,7 @@
     &lt;Button text="Button Eight" /&gt;
     &lt;Button text="Button Nine" /&gt;
     &lt;Button text="Button Ten" /&gt;
+    
 &lt;/TilePane&gt;
 </code>
 </pre>
