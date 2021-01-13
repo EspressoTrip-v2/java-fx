@@ -1,5 +1,5 @@
 <p align="center"><img src="TilePane.png"></p>
-```
+<script>
 <TilePane fx:controller="sample.Controller" xmlns:fx="http://javafx/fxml" alignment="CENTER">
     <Button text="Button One" />
     <Button text="Button Two" />
@@ -12,4 +12,4 @@
     <Button text="Button Nine" />
     <Button text="Button Ten" />
 </TilePane>
-```
+</script>
